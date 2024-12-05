@@ -1,0 +1,11 @@
+.about-us__container{
+    
+    padding-top: 140px;
+    display: flex;
+}
+
+.about-us__photo{
+    width: 596px;
+    height: 577px;
+    padding-left: 136px;
+}

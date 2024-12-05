@@ -1,0 +1,62 @@
+.logo-bar{
+    padding-top: 140px;
+    padding-left: 179px;
+    padding-right: 179px;
+}
+
+.logo-bar__container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.logo-bar__text{
+    display: flex;
+    justify-content: center;
+}
+
+.logo-bar h2{
+    font-family: sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 41.66px;
+    text-align: left;
+    color: var(--hornblendeGreen);
+}
+
+.logo-bar__logo-section{
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+}
+
+.logo-bar__master-card{
+    width: 66.98px;
+    height: 51.97px;
+}
+
+.logo-bar__airbnb{
+    width: 125px;
+    height: 39px;
+}
+
+.logo-bar__uber{
+    width: 97.3px;
+    height: 34px;
+}
+
+.logo-bar__paypal{
+    width: 106.47px;
+    height: 37.39px;
+}
+
+.logo-bar__visa{
+    width: 89.6px;
+    height: 32px;
+}
+
+.logo-bar__stripe{
+    width: 96.66px;
+    height: 40.4px;
+}

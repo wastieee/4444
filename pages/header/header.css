@@ -1,0 +1,40 @@
+.header{
+    padding-top: 44px;
+    padding-bottom: 44px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.header__container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__logo img{
+    vertical-align: middle;
+    padding-left: 120px;
+}
+
+.header__nav-menu{
+    display: flex;
+    padding-left: 484px;
+    padding-right: 484px;
+    gap: 50px;
+}
+
+.header__nav-menu__item{
+    display: flex;
+    font-size: 16px;
+    gap: 50px;
+}
+
+.header__nav-menu__link a{
+    color: var(--pot-black);
+}
+
+.header__menu{
+    display: flex;
+    gap: 30px;
+    padding-right: 120px;
+}
+
